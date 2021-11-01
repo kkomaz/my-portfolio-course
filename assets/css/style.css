@@ -382,9 +382,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Facts
+# Skills
 --------------------------------------------------------------*/
-.facts .count-box {
+.skills .count-box {
   padding: 30px 30px 25px 30px;
   margin-top: 30px;
   width: 100%;
@@ -392,7 +392,7 @@ section {
   text-align: center;
   background: #fff;
 }
-.facts .count-box i {
+.skills .count-box i {
   position: absolute;
   top: -25px;
   left: 50%;
@@ -407,49 +407,22 @@ section {
   width: 48px;
   height: 48px;
 }
-.facts .count-box span {
+.skills .count-box span {
   font-size: 36px;
   display: block;
   font-weight: 600;
   color: #011426;
 }
-.facts .count-box p {
+.skills .count-box p {
   padding: 0;
   margin: 0;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
 }
 
-/*--------------------------------------------------------------
-# Akills
---------------------------------------------------------------*/
-.skills .progress {
-  height: 60px;
-  display: block;
-  background: none;
-  border-radius: 0;
-}
-.skills .progress .skill {
-  padding: 10px 0;
-  margin: 0;
-  text-transform: uppercase;
-  display: block;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #45505b;
-}
-.skills .progress .skill .val {
-  float: right;
-  font-style: normal;
-}
-.skills .progress-bar-wrap {
-  background: #f2f3f5;
-}
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color: #0563bb;
+.skill-indiv {
+  height: 48px;
+  width: 48px;
 }
 
 /*--------------------------------------------------------------
