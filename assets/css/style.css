@@ -650,19 +650,8 @@ section {
   font-size: 14px;
   color: #728394;
 }
-/* .contact .info .email, .contact .info .phone {
+.contact .info .email, .contact .info .phone {
   margin-top: 40px;
-} */
-
-.info--contact {
-  margin-left: 100px;
-  margin-bottom: 40px;
-}
-
-.contact-links i {
-  margin-right: 5px;
-  margin-top: 15px;
-  margin-bottom: 30px;
 }
 
 .contact-links i:hover {
