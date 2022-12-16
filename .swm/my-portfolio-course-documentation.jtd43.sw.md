@@ -11,6 +11,8 @@ This is the public repository for the [Practical Portfolio Course](https://cours
 
 The final result from this project is [here](https://alexanderjlee.net/)
 
+<br/>
+
 ## Help & Resources
 
 If you have any questions feel free to utilize the question/comments in the course or ask in our [discord channel.](https://discord.gg/3CbqNuC8R5)
