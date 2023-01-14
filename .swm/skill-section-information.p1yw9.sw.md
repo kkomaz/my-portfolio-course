@@ -4,7 +4,7 @@ name: Skill Section Information
 file_version: 1.1.0
 app_version: 1.0.6
 file_blobs:
-  index.html: 26049f5e96d335aae891be46bb5d058f25458bc0
+  index.html: 6b5691cd0bc998afdc45984f69c92d74dd8b701a
 ---
 
 **Introduction**
@@ -24,7 +24,7 @@ This is where we will write out your coding skills and relevant information.
 ### 📄 index.html
 ```html
 🟩 126            <div class="section-title">
-🟩 127              <h2>Skills</h2>
+🟩 127              <h2 class="skills-header">Skills that I know</h2>
 🟩 128              <p>
 🟩 129                These are the technologies I use on a day to day basis
 🟩 130              </p>
@@ -44,7 +44,7 @@ I recommend that you update the information in the `<p>` tag to whatever makes s
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 index.html
 ```html
-🟩 138              <div class="col-lg-4 col-md-6">
+🟩 138              <div class="col-lg-4 col-md-6 html">
 🟩 139                <div class="count-box">
 🟩 140                  <img src="assets/img/skills/html5.png" class="skill-indiv"/>
 🟩 141                  <h4>HTML</h4>
