@@ -4,7 +4,7 @@ name: About Section Information
 file_version: 1.1.0
 app_version: 1.0.6
 file_blobs:
-  index.html: 0a2c35cc6f4599cfc40f0a31170ca0c705ed0ba0
+  index.html: 26049f5e96d335aae891be46bb5d058f25458bc0
 ---
 
 **_Introduction_**
@@ -15,11 +15,12 @@ I recommend you to update information about yourself in this `<p>` tag
 
 <br/>
 
+
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 index.html
 ```html
 🟩 76             <div class="section-title">
-🟩 77               <h2>About</h2>
+🟩 77               <h2 class="about-me">About Me</h2>
 🟩 78               <p>
 🟩 79                 I design and build user interface components to enhance application performance using modern React and ES6 Javascript.
 🟩 80               </p>
@@ -33,6 +34,7 @@ The next thing we should prioritize after this is updating your personal informa
 Again, update the right information such as the `Website` and `City:` and `Email` and `Blog`
 
 <br/>
+
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 index.html
