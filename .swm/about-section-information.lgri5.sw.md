@@ -1,6 +1,6 @@
 ---
 id: lgri5
-name: About Section Infromation
+name: About Section Information
 file_version: 1.1.0
 app_version: 1.0.6
 file_blobs:
@@ -14,7 +14,6 @@ This section is responsible for providing information about the developer. To up
 I recommend you to update information about yourself in this `<p>` tag
 
 <br/>
-
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 index.html
@@ -34,7 +33,6 @@ The next thing we should prioritize after this is updating your personal informa
 Again, update the right information such as the `Website` and `City:` and `Email` and `Blog`
 
 <br/>
-
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 index.html
