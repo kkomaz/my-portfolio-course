@@ -4,7 +4,7 @@ name: Hero Section
 file_version: 1.1.0
 app_version: 1.0.6
 file_blobs:
-  index.html: 63a67db898b0128408a1dd0a2ccb9bb42771bb4b
+  index.html: 0a2c35cc6f4599cfc40f0a31170ca0c705ed0ba0
 ---
 
 The hero section is relatively straight forward. The first thing we did is replace the template provide h1 tag with our own name.
@@ -32,7 +32,7 @@ To render the different views "I'm a Frontend Developer/Software Engineer/Softwa
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 index.html
 ```html
-🟩 61           <p>I'm a <span class="typed" data-typed-items="Frontend Developer, Software Engineer, Software Developer"></span></p>
+🟩 61           <p>I'm an <span class="typed" data-typed-items="Frontend Developer, Software Engineer, Software Developer"></span></p>
 ```
 
 <br/>
@@ -61,7 +61,7 @@ Lastly to add the social media tags we need to update
 🟩 58       <section id="hero" class="d-flex flex-column justify-content-center">
 🟩 59         <div class="container" data-aos="zoom-in" data-aos-delay="100">
 🟩 60           <h1>Alex Lee</h1>
-🟩 61           <p>I'm a <span class="typed" data-typed-items="Frontend Developer, Software Engineer, Software Developer"></span></p>
+🟩 61           <p>I'm an <span class="typed" data-typed-items="Frontend Developer, Software Engineer, Software Developer"></span></p>
 🟩 62           <div class="social-links">
 🟩 63             <a href="https://twitter.com/TheTechRally" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
 🟩 64             <a href="https://www.linkedin.com/in/alexanderlee2" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
