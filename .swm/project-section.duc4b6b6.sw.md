@@ -60,7 +60,7 @@ As you build more projects feel free to copy the format of col-lg-6 project-item
 241                  </div>
 242                </div>
 243              </div>
-244            </div>
+244          </div>
 ```
 
 <br/>
